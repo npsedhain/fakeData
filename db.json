@@ -32,5 +32,13 @@
             "ligandsCompleted": 75,
             "ASMSConfirmed": 50
         }
+    ],
+    "users": [
+        {
+            "name": "John Smith"
+        },
+        {
+            "name": "John Doe"
+        }
     ]
 }
