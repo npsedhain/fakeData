@@ -1,0 +1,36 @@
+{
+    "targets": [
+        {
+            "name": "KRAS",
+            "progress": 3,
+            "ligandsSelected": 100,
+            "ligandsProcessed": 75,
+            "ligandsCompleted": 50,
+            "ASMSConfirmed": 45
+        },
+        {
+            "name": "BRCA2",
+            "progress": 2,
+            "ligandsSelected": 130,
+            "ligandsProcessed": 100,
+            "ligandsCompleted": 75,
+            "ASMSConfirmed": 50
+        },
+        {
+            "name": "BRCA2",
+            "progress": 2,
+            "ligandsSelected": 130,
+            "ligandsProcessed": 100,
+            "ligandsCompleted": 75,
+            "ASMSConfirmed": 50
+        },
+        {
+            "name": "BRCA2",
+            "progress": 2,
+            "ligandsSelected": 130,
+            "ligandsProcessed": 100,
+            "ligandsCompleted": 75,
+            "ASMSConfirmed": 50
+        }
+    ]
+}
